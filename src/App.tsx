@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import HomePage from "./pages/HomePage";
+import HomePage from "./pages/HomePage.tsx";
 import MeasurePage from "./pages/MeasurePage";
 import ResultsPage from "./pages/ResultsPage";
 import MeasurementList from './Pages/MeasurementList';
