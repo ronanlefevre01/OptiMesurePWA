@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage.tsx";
 import MeasurePage from "./pages/MeasurePage";
 import ResultsPage from "./pages/ResultsPage";
-import MeasurementList from './Pages/MeasurementList';
+import MeasurementList from './pages/MeasurementList';
 import EditMeasurementPage from './pages/EditMeasurementPage';
-import CustomMeasurePage from './Pages/CustomMeasurePage';
+import CustomMeasurePage from './pages/CustomMeasurePage';
 import { useLicence } from './licence/useLicence';
 
 
