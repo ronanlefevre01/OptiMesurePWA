@@ -1,0 +1,12 @@
+{
+  "cle": "TEST-0001",
+  "nom": "Test Opticien",
+  "validite": "2025-12-31",
+  "cachet": "Test cachet",
+  "modules": {
+    "avance": true,
+    "video": false,
+    "profil": true,
+    "ia": false
+  }
+}
