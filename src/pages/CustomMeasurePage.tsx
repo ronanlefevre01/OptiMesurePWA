@@ -1,8 +1,8 @@
 import React, { useRef, useState, useEffect } from 'react';
 import Webcam from 'react-webcam';
-import DraggableMarker from '../Components/DraggableMarker';
-import CornerMarker from '../Components/CornerMarker';
-import Header from '../Components/Header';
+import DraggableMarker from '../components/DraggableMarker';
+import CornerMarker from '../components/CornerMarker';
+import Header from '../components/Header';
 import { useNavigate } from 'react-router-dom';
 
 type SavedMeasurement = {

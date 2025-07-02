@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import DraggableMarker from '../Components/DraggableMarker';
-import CornerMarker from '../Components/CornerMarker';
+import DraggableMarker from '../components/DraggableMarker';
+import CornerMarker from '../components/CornerMarker';
 
 type SavedMeasurement = {
   id: string;
